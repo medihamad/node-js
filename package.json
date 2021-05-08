@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/medihamad/node-js/issues"
   },
-  "homepage": "https://github.com/medihamad/node-js#readme"
+  "homepage": "https://github.com/medihamad/node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
